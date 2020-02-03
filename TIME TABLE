@@ -4,7 +4,7 @@
 </head>
 
 <body>
-<table border="1" cell padding="5" cell spacing="6" >
+<table border="1" cellpadding="12" cellspacing="3" WIDTH="700PX" HEIGHT="300PX">
 
 <tr>
 <th BGCOLOR=" BLUE">HOUR</TH>
