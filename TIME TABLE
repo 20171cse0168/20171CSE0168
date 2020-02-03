@@ -5,7 +5,7 @@
 
 <body>
 <table border="1" cellpadding="12" cellspacing="3" WIDTH="700PX" HEIGHT="300PX">
-
+<CAPTION >TIME TABLE</CAPTION>
 <tr>
 <th BGCOLOR=" BLUE">HOUR</TH>
 <th BGCOLOR=" BLUE">1</TH>
