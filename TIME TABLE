@@ -4,8 +4,8 @@
 </head>
 
 <body>
-<table border="1" cellpadding="12" cellspacing="3" WIDTH="700PX" HEIGHT="300PX">
-<CAPTION >TIME TABLE</CAPTION>
+<table border="1" cellpadding="12" cellspacing="3" WIDTH="400PX" HEIGHT="200PX">
+<CAPTION >TIME TABLE- 6CSE3</CAPTION>
 <tr>
 <th BGCOLOR=" BLUE">HOUR</TH>
 <th BGCOLOR=" BLUE">1</TH>
