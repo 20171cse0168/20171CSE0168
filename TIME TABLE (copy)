@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>TIME frame</title>
+</head>
+
+<h1 style="font-family:  Helvetica; text-align:center; font-size:300%;background-color: rgb(255,99,71)">HTML I-FRAMES</h1>
+
+<body style="background-color:powder blue">
+<p> document contenet....</p>
+
+<iframe src="/home/6CSE3/resume" width="200" height="250">sorry not support inline</iframe>
+
+<p>doc content also go here..</p>
+
+
+<iframe src="/home/6CSE3/resume" name="iframe_a"></iframe>
+
+<p><a href="https://www.presidencyuniversity.com" target="iframe_a">LOAD NEW WEB PAGE</a></p>
+
+<font size="3">
+<p style="font-family:Times;color:red"><img src="/home/6CSE3/Downloads/index.jpeg" alt="image" style="float:right;width:42;height:42px">Image map. In HTML and XHTML, an image map is a list of coordinates relating to a specific image, created in order to hyperlink areas of the image to different destinations (as opposed to a normal image link, in which the entire area of the image links to a single destination).</p>
+</font>
+
+
+<p><marquee direction="left">Image map. In HTML and XHTML, an image map is a list of coordinates relating to a specific image, created in order to hyperlink areas of the image to different destinations (as opposed to a normal image link, in which the entire area of the image links to a single destination).</marquee></p>
+
+
+<img src="/home/6CSE3/Downloads/index.jpeg" alt="image" usemap="#workmap">
+<map name="workmap">
+<area shape="rect" coords="37,57,140,179" alt="rect" href="https://www.google.com/search?client=ubuntu&channel=fs&q=laptop&ie=utf-8&oe=utf-8">
+
+<area shape="rect" coords="169,110,183,132" alt="rect" href="https://www.amazon.in/mobile-phones/b?ie=UTF8&node=1389401031">
+
+<area shape="circle" coords="177,157,217,204" alt="rect" href="https://www.flipkart.com/kitchen-cookware-serveware/tableware-dinnerware/mugs/pr?sid=upp%2Ci7t%2Cmsi">
+
+</map>
+</body>
+</html>
