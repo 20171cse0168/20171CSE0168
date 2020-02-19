@@ -1,0 +1,98 @@
+<html>
+<head>
+<title>MY CV</title>
+<img src="/home/6CSE3/Desktop/IMG_20170719_100228_636.jpg" alt="smily face" style="float:right;width:50px;height=50px">
+<b><h4>Chethana U</h4></b>
+
+<a href="mailto:chethana1604@gmail.com">chethana1604@gmail.com</a>
+
+<p>+91-8971745562</p>
+
+</head>
+
+
+<body bgcolor="lightyellow">
+
+<hr size=1></hr>
+
+<div>
+<b><h3>Highlights</h3></b>
+<p><ul type="disk">
+<li>summer intern at aminno software technology,bangalore</li>
+<li>project on bluetooth car model</li>
+<li>Public speaking</li>
+<li>leadership qualities</li>
+</ul></p>
+</div>
+
+<hr size=1></hr>
+<div>
+<b><h3>Professional Experience</h3></b>
+<p><ul type="disk">
+<b><li><h2>Aminno Software Technologies Pvt.Ltd</h2></b>
+<ul type="circle">
+<li>serever administration</li>
+<li>mc affee epo server</li>
+<li>networking issues</li>
+</ul>
+</div>
+
+<hr size=1></hr>
+<div>
+<b><h3>Academic Records</h3></b>
+<table border="1" cellpadding="12" cellspacing="3" WIDTH="300PX" HEIGHT="100PX">
+<tr>
+<th><b>Qualification</b></TH>
+<th><b>Board</b></TH>
+<th><b>Percentage/Grade</b></TH>
+<th><b>Year</b></TH>
+</tr>
+
+<tr>
+<th>Secondary School</TH>
+<th>CBSE India</TH>
+<th>7.2</TH>
+<th>2015</TH>
+</tr>
+
+<tr>
+<th>Higher Secondary School</TH>
+<th>State Board</th>
+<th>87.9%</th>
+<th>2017</th>
+</tr>
+
+<tr>
+<th>Btech.(Computer Science)</TH>
+<th>Presidency University</th>
+<th>8</th>
+<th>2021</th>
+</tr>
+</table>
+</div>
+
+<hr size=1></hr>
+<div>
+<b><h3>Independent Courses</h3></b>
+<ul type="circle">
+<li>c,c++</li>
+<li>java</li>
+<li>python</li>
+<li>MS-Office</li>
+</ul>
+</div>
+
+
+<div>
+<b><h3>Technical Skills</h3></b>
+<ul type="circle">
+<li><b><span style="color:red">c,c++:</span></b> </li>
+<li>java</li>
+<li>python</li>
+<li>MS-Office</li>
+</ul>
+</div>
+
+
+</body>
+</html>
