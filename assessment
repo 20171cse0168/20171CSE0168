@@ -1,0 +1,83 @@
+<html>
+<head>
+<title>HTML ASSESSMENT</title>
+</head>
+<body>
+<table border="1" height="500px" width="500px">
+
+<div>
+<tr>
+<th BGCOLOR="lightgreen" COLSPAN=2>PRESIDENCY UNIVERSITY</TH>
+<th><img src="/home/6CSE3/Downloads/a.jpeg" height="40px" width="40px"></TH>
+<th>8th sem</th>
+
+
+
+</tr>
+</div>
+
+<tr>
+<th BGCOLOR="lightblue">
+<div>
+<p><i><b>BRANCH LIST</b></i></p>
+<ul type="disk">
+<li>MEC</li>
+<li>ece</li>
+<li>civivl</li>
+<li>cse</li>
+<ol type= "numerics">
+<li>cse</li>
+<li>ise</li>
+<li>com</li>
+</ol>
+<li>EEE</li>
+<li>PET</li>
+</ul>
+</div>
+</th>
+
+
+<th BGCOLOR="lightyellow">
+<div>
+<p><U><b>WELCOME TO <span style="color:red">CSE</span> DEPT</b></U></p>
+<ol type="numerics" START="3">
+<li>5<sup>th</sup>sem</li>
+<li>6<sup>th</sup>sem</li>
+<li>7<sup>th</sup>sem</li>
+</ol>
+</div>
+</th>
+
+<th>
+<p style="color:blue">INTERNET TECHNOLOGY COUSRE</p><br>
+this course is giving introduction of html and css<br>
+<a href="www.amazon.com">link</a>
+</th>
+
+</tr>
+</div>
+
+
+<tr>
+
+<th BGCOLOR="blue"></th>
+<th><img src="/home/6CSE3/Downloads/a.jpeg" height="40px" width="40px"></th>
+<th BGCOLOR="blue"></th>
+
+</tr>
+
+<tr>
+<th COLSPAN=3 >
+</th>
+</tr>
+
+</tr>
+<th style="background-color:green" COLSPAN=3><center>&copy;Presidency University,Rajankunte<center></th>
+<tr>
+
+
+
+</tr>
+</table>
+<body>
+</html>
